@@ -27,5 +27,7 @@ my leetcode solutions in js
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [solution](Strings/reverseWords.js) | Medium, Strings  | 
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [solution](./Strings/longestCommonPrefix.js) | Easy, Strings |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [solution](./Strings/addBinary.js) | Easy, Strings  |
-|  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](Strings/generateString.js) | Medium, Backtrack, Strings  |   |   |
-|   |   |   |   |   |
+|  [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](./Strings/generateString.js) | Medium, Backtrack, Strings  |   
+|  [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](./DynamicProgramming/MaximumSubarray.js)  | Easy, Dynamic Programming |   
+|   |   |   |   
+
