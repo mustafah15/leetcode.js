@@ -30,3 +30,4 @@
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [solution](./DynamicProgramming/BestTimeBuyandSellStock.js)  | Easy, Dynamic Programming |   
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](./DynamicProgramming/BestTimeBuyandSellStocktwo.js)  | Easy, Dynamic Programming  |   
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [solution](./DynamicProgramming/UniquePaths.js) | Medium, Dynamic Programming |
+| [120. Triangle](https://leetcode.com/problems/triangle/) | [solution](./DynamicProgramming/Triangle.js) | Medium, Dynamic Programming |
