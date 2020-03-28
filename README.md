@@ -30,5 +30,5 @@ my leetcode solutions in js
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [solution](./Strings/generateString.js) | Medium, Backtrack, Strings  |   
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](./DynamicProgramming/MaximumSubarray.js)  | Easy, Dynamic Programming |   
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [solution](./DynamicProgramming/BestTimeBuyandSellStock.js)  | Easy, Dynamic Programming |   
-|   |   |   |   
-
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](./DynamicProgramming/BestTimeBuyandSellStocktwo.js)  | Easy, Dynamic Programming  |   
+| | | |
