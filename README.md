@@ -1,6 +1,4 @@
-# leetcode
-
-my leetcode solutions in js
+# leetcode JavaScript Solutions
 
 
 |  problem on leet code |solution   | tags  | 
@@ -31,4 +29,4 @@ my leetcode solutions in js
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [solution](./DynamicProgramming/MaximumSubarray.js)  | Easy, Dynamic Programming |   
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [solution](./DynamicProgramming/BestTimeBuyandSellStock.js)  | Easy, Dynamic Programming |   
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](./DynamicProgramming/BestTimeBuyandSellStocktwo.js)  | Easy, Dynamic Programming  |   
-| | | |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [solution](./DynamicProgramming/UniquePaths.js) | Medium, Dynamic Programming |
