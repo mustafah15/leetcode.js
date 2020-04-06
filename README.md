@@ -31,3 +31,5 @@
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](./DynamicProgramming/BestTimeBuyandSellStocktwo.js)  | Easy, Dynamic Programming  |   
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [solution](./DynamicProgramming/UniquePaths.js) | Medium, Dynamic Programming |
 | [120. Triangle](https://leetcode.com/problems/triangle/) | [solution](./DynamicProgramming/Triangle.js) | Medium, Dynamic Programming |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [solution](./HashTable/GroupAnagrams.js) | Medium, HashTable |
+| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](./Arrays/MoveZeros.js) | Easy, Array |
