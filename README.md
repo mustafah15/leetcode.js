@@ -33,3 +33,4 @@
 | [120. Triangle](https://leetcode.com/problems/triangle/) | [solution](./DynamicProgramming/Triangle.js) | Medium, Dynamic Programming |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [solution](./HashTable/GroupAnagrams.js) | Medium, HashTable |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](./Arrays/MoveZeros.js) | Easy, Array |
+| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [solution](./Strings/backspaceStringCompare.js) | Easy, String, Stack|
