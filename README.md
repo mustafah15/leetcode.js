@@ -35,3 +35,4 @@
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](./Arrays/MoveZeros.js) | Easy, Array |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [solution](./Strings/backspaceStringCompare.js) | Easy, String, Stack|
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [solution](./Arrays/minSack.js) | Easy, Array, Stack|
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](DepthFirstSearch/DiameterOfBinaryTree.js) | Easy, Trees, DFS|
