@@ -35,4 +35,8 @@
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](./Arrays/MoveZeros.js) | Easy, Array |
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [solution](./Strings/backspaceStringCompare.js) | Easy, String, Stack|
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [solution](./Arrays/minSack.js) | Easy, Array, Stack|
-| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](DepthFirstSearch/DiameterOfBinaryTree.js) | Easy, Trees, DFS|
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [solution](./DepthFirstSearch/DiameterOfBinaryTree.js) | Easy, Trees, DFS|
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](./Strings/LongestPalindromicSubstring.js) | Medium, Strings |
+| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [solution](./DepthFirstSearch/BinaryTreePreorderTraversal.js) | Medium, dfs, trees |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [solution](./DepthFirstSearch/BinaryTreeInorderTraversal.js) | Medium, dfs, trees |
+|  [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](./Arrays/DailyTemperatures.js) | Medium, Stack, Arrays |
