@@ -40,3 +40,4 @@
 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [solution](./DepthFirstSearch/BinaryTreePreorderTraversal.js) | Medium, dfs, trees |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [solution](./DepthFirstSearch/BinaryTreeInorderTraversal.js) | Medium, dfs, trees |
 |  [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](./Arrays/DailyTemperatures.js) | Medium, Stack, Arrays |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](./Strings/longestSubstringWithoutRepeatingCharacters.js) | Medium, String, Arrays |
