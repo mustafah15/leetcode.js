@@ -43,4 +43,5 @@
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](./Strings/longestSubstringWithoutRepeatingCharacters.js) | Medium, String, Arrays |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [solution](./LinkedList/addTwoNumbers.js) | Medium, LinkedList |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution](./DynamicProgramming/longestIncreasingSubsequence.js) | Medium, Dynamic Programming |
-| [46. Permutations](https://leetcode.com/problems/permutations/) | [solution](Backtracking/permutations.js) | Medium, Backtracking |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | [solution](./Backtracking/permutations.js) | Medium, Backtracking |
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](./DepthFirstSearch/kthSmallestElementinaBST.js) | Medium, Binary Search Tree, dfs |
