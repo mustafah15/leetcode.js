@@ -42,3 +42,5 @@
 |  [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](./Arrays/DailyTemperatures.js) | Medium, Stack, Arrays |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](./Strings/longestSubstringWithoutRepeatingCharacters.js) | Medium, String, Arrays |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [solution](./LinkedList/addTwoNumbers.js) | Medium, LinkedList |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution](./DynamicProgramming/longestIncreasingSubsequence.js) | Medium, Dynamic Programming |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | [solution](Backtracking/permutations.js) | Medium, Backtracking |
