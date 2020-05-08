@@ -46,3 +46,5 @@
 | [46. Permutations](https://leetcode.com/problems/permutations/) | [solution](./Backtracking/permutations.js) | Medium, Backtracking |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](./DepthFirstSearch/kthSmallestElementinaBST.js) | Medium, Binary Search Tree, dfs |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [solution](./Arrays/mergeIntervals.js) | Medium, Arrays |
+| [133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [solution](./Graph/cloneGraph.js) | Medium, Graph |
+ 
