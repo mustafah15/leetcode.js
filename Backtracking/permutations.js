@@ -3,28 +3,30 @@
  * @return {number[][]}
  */
 
-const generateAllPermutations = (runningChoices, originalArray, allPermutations) => {
-    if(runningChoices.length == originalArray.length) {
-        allPermutations.push(Array.from(runningChoices));
-        return;
-    }
-    for(let i = 0; i < originalArray.length; i++) {
-        const choice = originalArray[i];
-
-        if(!runningChoices.includes(choice)) {
-            runningChoices.push(choice);
-
-            generateAllPermutations(runningChoices, originalArray, allPermutations);
-
-            runningChoices.pop();
-        }
-    }
-}
-
 var permute = function(nums) {
     const result = [];
-    
-    generateAllPermutations([], nums, result);
-    
+    const path = [];
+
+    recurse();
+
     return result;
+
+    function recurse() {
+        if(path.length === nums.length) {
+            result.push([...path]);
+            return;
+        }
+
+        for(let i = 0; i < nums.length; i++) {
+            const choice = nums[i];
+            if(!path.includes(choice)) {
+                //do
+                path.push(choice);
+                //recurse
+                recurse();
+                //undo
+                path.pop();
+            }
+        }
+    }
 };
