@@ -44,6 +44,7 @@
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [solution](./LinkedList/addTwoNumbers.js) | Medium, LinkedList ||
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution](./DynamicProgramming/longestIncreasingSubsequence.js) | Medium, Dynamic Programming ||
 | [46. Permutations](https://leetcode.com/problems/permutations/) | [solution](./Backtracking/permutations.js) | Medium, Backtracking | https://youtu.be/o_U2ctVnH2g |
+| [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [solution](./Backtracking/permutationsTwo.js) | Medium, Backtracking | https://youtu.be/F30kIMXls9U |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](./DepthFirstSearch/kthSmallestElementinaBST.js) | Medium, Binary Search Tree, dfs ||
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [solution](./Arrays/mergeIntervals.js) | Medium, Arrays ||
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [solution](./Graph/cloneGraph.js) | Medium, Graph ||
