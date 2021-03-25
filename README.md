@@ -33,7 +33,7 @@
 | [120. Triangle](https://leetcode.com/problems/triangle/) | [solution](./DynamicProgramming/Triangle.js) | Medium, Dynamic Programming ||
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution 1](./DynamicProgramming/longestIncreasingSubsequence.js), [solution 2](./DynamicProgramming/longestIncreasingSubsequence2.js) | Medium, Dynamic Programming ||
 | [322. Coin Change](https://leetcode.com/problems/coin-change/) | [solution](./DynamicProgramming/CoinChange.js) | Medium, Dynamic Programming ||
-| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [solution](./DynamicProgramming/CoinChange2.js) | Medium, Dynamic Programming ||
+| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [solution](./DynamicProgramming/CoinChange2.js) | Medium, Dynamic Programming |https://youtu.be/b-8MBeJBk8Q|
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [solution](./HashTable/GroupAnagrams.js) | Medium, HashTable ||
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](./Arrays/MoveZeros.js) | Easy, Array ||
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [solution](./Strings/backspaceStringCompare.js) | Easy, String, Stack||
