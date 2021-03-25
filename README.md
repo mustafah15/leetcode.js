@@ -49,8 +49,8 @@
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [solution](./Backtracking/permutationsTwo.js) | Medium, Backtracking | https://youtu.be/F30kIMXls9U |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [solution](./Backtracking/combinationSum.js) | Medium, Backtracking | https://youtu.be/2kWl_LRrUEc |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [solution](./Backtracking/combinationSumTwo.js) | Medium, Backtracking | https://youtu.be/2kWl_LRrUEc |
-| [51. N-Queens](https://leetcode.com/problems//n-queens/) | [solution](./Backtracking/nQueens.js) | Hard, Backtracking |  |
-| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](./Backtracking/nQueensTwo.js) | Hard, Backtracking |  |
+| [51. N-Queens](https://leetcode.com/problems//n-queens/) | [solution](./Backtracking/nQueens.js) | Hard, Backtracking | https://youtu.be/4gS86fJHBbg |
+| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](./Backtracking/nQueensTwo.js) | Hard, Backtracking |https://youtu.be/4gS86fJHBbg |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](./DepthFirstSearch/kthSmallestElementinaBST.js) | Medium, Binary Search Tree, dfs ||
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [solution](./Arrays/mergeIntervals.js) | Medium, Arrays ||
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [solution](./Graph/cloneGraph.js) | Medium, Graph ||
