@@ -31,6 +31,9 @@
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [solution](./DynamicProgramming/BestTimeBuyandSellStocktwo.js)  | Easy, Dynamic Programming  ||   
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [solution](./DynamicProgramming/UniquePaths.js) | Medium, Dynamic Programming ||
 | [120. Triangle](https://leetcode.com/problems/triangle/) | [solution](./DynamicProgramming/Triangle.js) | Medium, Dynamic Programming ||
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution 1](./DynamicProgramming/longestIncreasingSubsequence.js), [solution 2](./DynamicProgramming/longestIncreasingSubsequence2.js) | Medium, Dynamic Programming ||
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | [solution](./DynamicProgramming/CoinChange.js) | Medium, Dynamic Programming ||
+| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [solution](./DynamicProgramming/CoinChange2.js) | Medium, Dynamic Programming ||
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [solution](./HashTable/GroupAnagrams.js) | Medium, HashTable ||
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [solution](./Arrays/MoveZeros.js) | Easy, Array ||
 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [solution](./Strings/backspaceStringCompare.js) | Easy, String, Stack||
@@ -42,7 +45,6 @@
 |  [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [solution](./Arrays/DailyTemperatures.js) | Medium, Stack, Arrays ||
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [solution](./Strings/longestSubstringWithoutRepeatingCharacters.js) | Medium, String, Arrays ||
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [solution](./LinkedList/addTwoNumbers.js) | Medium, LinkedList ||
-| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [solution](./DynamicProgramming/longestIncreasingSubsequence.js) | Medium, Dynamic Programming ||
 | [46. Permutations](https://leetcode.com/problems/permutations/) | [solution](./Backtracking/permutations.js) | Medium, Backtracking | https://youtu.be/o_U2ctVnH2g |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [solution](./Backtracking/permutationsTwo.js) | Medium, Backtracking | https://youtu.be/F30kIMXls9U |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [solution](./Backtracking/combinationSum.js) | Medium, Backtracking | https://youtu.be/2kWl_LRrUEc |
