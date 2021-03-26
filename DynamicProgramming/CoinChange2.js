@@ -15,12 +15,9 @@ var change = function(amount, coins) {
 
 
     var solve = function(rem, position) {
-
-
         if(rem == 0) {
             return 1;
         }
-
         if(position == coins.length) {
             return 0;
         }
@@ -28,16 +25,13 @@ var change = function(amount, coins) {
         if(memo[position][rem] > -1){
             return memo[position][rem]
         }
-
         if(rem >= coins[position]) {
             memo[position][rem] = solve(rem - coins[position], position)  + solve(rem, position + 1)
         } else {
             memo[position][rem] = solve(rem, position + 1);
         }
 
-
         return memo[position][rem]
-
     };
 
 
