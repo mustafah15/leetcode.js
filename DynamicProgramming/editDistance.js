@@ -25,12 +25,13 @@ var minDistance = function(word1, word2) {
             return memo[pos1][pos2];
         }
 
-
-
         if(word1[pos1] !== word2[pos2]) {
             memo[pos1][pos2] = Math.min(
+                //replace
                 solve(pos1 + 1, pos2 + 1) + 1,
+                //insert
                 solve(pos1 + 1, pos2) + 1,
+                //delete
                 solve(pos1, pos2 + 1) + 1
             );
 

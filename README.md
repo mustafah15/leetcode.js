@@ -51,6 +51,7 @@
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [solution](./Backtracking/permutationsTwo.js) | Medium, Backtracking | https://youtu.be/F30kIMXls9U |
 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [solution](./Backtracking/combinationSum.js) | Medium, Backtracking | https://youtu.be/2kWl_LRrUEc |
 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [solution](./Backtracking/combinationSumTwo.js) | Medium, Backtracking | https://youtu.be/2kWl_LRrUEc |
+| [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [solution](./Backtracking/combinationSumTwo.js) | Medium, Backtracking |  |
 | [51. N-Queens](https://leetcode.com/problems//n-queens/) | [solution](./Backtracking/nQueens.js) | Hard, Backtracking | https://youtu.be/4gS86fJHBbg |
 | [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](./Backtracking/nQueensTwo.js) | Hard, Backtracking |https://youtu.be/4gS86fJHBbg |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [solution](./DepthFirstSearch/kthSmallestElementinaBST.js) | Medium, Binary Search Tree, dfs ||
@@ -58,3 +59,5 @@
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [solution](./Graph/cloneGraph.js) | Medium, Graph ||
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [solution](./Graph/keysandRooms.js) | Medium, Graph|| 
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [solution](./Backtracking/allPathesFromSourceToTarget.js) | Medium, Graph, Backtracking| https://youtu.be/2nU4OxMovOY | 
+| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [solution](./Backtracking/letterCombinations.js) | Medium, Graph, Backtracking| | 
+
