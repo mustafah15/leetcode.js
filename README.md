@@ -60,4 +60,5 @@
 | [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| [solution](./Graph/keysandRooms.js) | Medium, Graph|| 
 | [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [solution](./Backtracking/allPathesFromSourceToTarget.js) | Medium, Graph, Backtracking| https://youtu.be/2nU4OxMovOY | 
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [solution](./Backtracking/letterCombinations.js) | Medium, Graph, Backtracking| | 
-
+ [242. Valid Anagram
+](https://leetcode.com/problems/valid-anagram/)| [solution](./HashTable/ValidAnagram.js) | Easy, Hash Table, string| | 
