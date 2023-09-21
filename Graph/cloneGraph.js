@@ -14,7 +14,7 @@
 
 const clone = (node, map) => {
     if (!node) return null;
-    if (map[node.val]) return map[node.val];
+    if (map[node.val]) return map[node.val];  
   
     const cloneNode = new Node(node.val);
   
