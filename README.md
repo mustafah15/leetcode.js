@@ -63,4 +63,5 @@
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [solution](./HashTable/ValidAnagram.js) | Easy, Hash Table, string| | 
 | [704. Binary Search](https://leetcode.com/problems/binary-search/description/) | [solution](./Backtracking/BinarySearch.js) | Easy, Binary search| |
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [solution](./Arrays/mergeAlternately.js) | Easy, Arrays | |
+| [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | [solution](./Arrays/kidsWithKandies.js) | Easy, Arrays | |
 |
