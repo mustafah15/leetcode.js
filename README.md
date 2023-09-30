@@ -62,3 +62,5 @@
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [solution](./Backtracking/letterCombinations.js) | Medium, Graph, Backtracking| | 
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [solution](./HashTable/ValidAnagram.js) | Easy, Hash Table, string| | 
 | [704. Binary Search](https://leetcode.com/problems/binary-search/description/) | [solution](./Backtracking/BinarySearch.js) | Easy, Binary search| |
+| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [solution](./Arrays/mergeAlternately.js) | Easy, Arrays | |
+|
