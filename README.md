@@ -65,4 +65,8 @@
 | [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [solution](./Arrays/mergeAlternately.js) | Easy, Arrays | |
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | [solution](./Arrays/kidsWithKandies.js) | Easy, Arrays | |
 |[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75) | [solution](./Strings/gcdOfStrings.js) | Easy, Strings| |
-|
+|[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [solution](./Arrays/longestConsecutive.js)| Medium, Array |
+|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [solution](./HashTable/topKFrequent.js) |  Medium, Hash table |
+| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](./Arrays/productExceptSelf.js) | Medium, Array |
+
+
