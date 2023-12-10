@@ -67,6 +67,7 @@
 |[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75) | [solution](./Strings/gcdOfStrings.js) | Easy, Strings| |
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [solution](./Arrays/longestConsecutive.js)| Medium, Array |
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [solution](./HashTable/topKFrequent.js) |  Medium, Hash table |
-| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](./Arrays/productExceptSelf.js) | Medium, Array |
+|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](./Arrays/productExceptSelf.js) | Medium, Array |
+|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [solution](./TwoPointers/isPalindrome.js) | Easy, String, TwoPointers |
 
 
